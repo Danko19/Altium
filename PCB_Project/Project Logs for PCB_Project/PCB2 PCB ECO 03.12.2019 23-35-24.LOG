@@ -1,0 +1,236 @@
+Added Component: Designator=MPL1(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPL2(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPL3(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPL4(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPL5(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPL6(DIP-24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(3-PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X2(14-PINS)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X3(14-PINS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL1-1
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL2-6
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL3-1
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL4-6
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL5-1
+Added Pin To Net: NetName=NetMPL1_1 Pin=MPL6-6
+Added Pin To Net: NetName=NetMPL1_1 Pin=X2-5
+Added Net: Name=NetMPL1_1
+Added Pin To Net: NetName=NetMPL1_2 Pin=MPL1-2
+Added Pin To Net: NetName=NetMPL1_2 Pin=MPL1-21
+Added Pin To Net: NetName=NetMPL1_2 Pin=MPL2-21
+Added Pin To Net: NetName=NetMPL1_2 Pin=MPL3-23
+Added Pin To Net: NetName=NetMPL1_2 Pin=MPL4-23
+Added Pin To Net: NetName=NetMPL1_2 Pin=X2-10
+Added Net: Name=NetMPL1_2
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL1-3
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL2-7
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL3-3
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL4-7
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL5-3
+Added Pin To Net: NetName=NetMPL1_3 Pin=MPL6-7
+Added Pin To Net: NetName=NetMPL1_3 Pin=X2-4
+Added Net: Name=NetMPL1_3
+Added Pin To Net: NetName=NetMPL1_4 Pin=MPL1-4
+Added Pin To Net: NetName=NetMPL1_4 Pin=MPL3-4
+Added Pin To Net: NetName=NetMPL1_4 Pin=MPL5-4
+Added Pin To Net: NetName=NetMPL1_4 Pin=X2-3
+Added Net: Name=NetMPL1_4
+Added Pin To Net: NetName=NetMPL1_5 Pin=MPL1-5
+Added Pin To Net: NetName=NetMPL1_5 Pin=MPL3-5
+Added Pin To Net: NetName=NetMPL1_5 Pin=MPL5-5
+Added Pin To Net: NetName=NetMPL1_5 Pin=X2-2
+Added Net: Name=NetMPL1_5
+Added Pin To Net: NetName=NetMPL1_6 Pin=MPL1-6
+Added Pin To Net: NetName=NetMPL1_6 Pin=MPL3-6
+Added Pin To Net: NetName=NetMPL1_6 Pin=MPL5-6
+Added Pin To Net: NetName=NetMPL1_6 Pin=X2-1
+Added Net: Name=NetMPL1_6
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL1-7
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL1-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL2-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL3-7
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL3-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL4-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL5-7
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL5-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=MPL6-20
+Added Pin To Net: NetName=NetMPL1_7 Pin=X1-3
+Added Net: Name=NetMPL1_7
+Added Pin To Net: NetName=NetMPL1_8 Pin=MPL1-8
+Added Pin To Net: NetName=NetMPL1_8 Pin=X3-1
+Added Net: Name=NetMPL1_8
+Added Pin To Net: NetName=NetMPL1_9 Pin=MPL1-9
+Added Pin To Net: NetName=NetMPL1_9 Pin=X3-2
+Added Net: Name=NetMPL1_9
+Added Pin To Net: NetName=NetMPL1_10 Pin=MPL1-10
+Added Pin To Net: NetName=NetMPL1_10 Pin=MPL3-19
+Added Net: Name=NetMPL1_10
+Added Pin To Net: NetName=NetMPL1_11 Pin=MPL1-11
+Added Pin To Net: NetName=NetMPL1_11 Pin=MPL3-18
+Added Net: Name=NetMPL1_11
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-16
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-17
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-18
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-19
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL1-23
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-16
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-17
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-18
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-19
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL2-23
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL3-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL4-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL5-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=MPL6-12
+Added Pin To Net: NetName=NetMPL1_12 Pin=X1-2
+Added Net: Name=NetMPL1_12
+Added Pin To Net: NetName=NetMPL1_13 Pin=MPL1-13
+Added Pin To Net: NetName=NetMPL1_13 Pin=MPL2-2
+Added Net: Name=NetMPL1_13
+Added Pin To Net: NetName=NetMPL1_22 Pin=MPL1-22
+Added Pin To Net: NetName=NetMPL1_22 Pin=MPL2-22
+Added Pin To Net: NetName=NetMPL1_22 Pin=X2-9
+Added Net: Name=NetMPL1_22
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL1-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL2-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL3-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL4-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL5-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=MPL6-24
+Added Pin To Net: NetName=NetMPL1_24 Pin=X1-1
+Added Net: Name=NetMPL1_24
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL2-1
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL2-3
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL4-1
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL4-3
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL6-1
+Added Pin To Net: NetName=NetMPL2_1 Pin=MPL6-3
+Added Pin To Net: NetName=NetMPL2_1 Pin=X2-8
+Added Net: Name=NetMPL2_1
+Added Pin To Net: NetName=NetMPL2_4 Pin=MPL2-4
+Added Pin To Net: NetName=NetMPL2_4 Pin=MPL4-4
+Added Pin To Net: NetName=NetMPL2_4 Pin=MPL6-4
+Added Pin To Net: NetName=NetMPL2_4 Pin=X2-7
+Added Net: Name=NetMPL2_4
+Added Pin To Net: NetName=NetMPL2_5 Pin=MPL2-5
+Added Pin To Net: NetName=NetMPL2_5 Pin=MPL4-5
+Added Pin To Net: NetName=NetMPL2_5 Pin=MPL6-5
+Added Pin To Net: NetName=NetMPL2_5 Pin=X2-6
+Added Net: Name=NetMPL2_5
+Added Pin To Net: NetName=NetMPL2_8 Pin=MPL2-8
+Added Pin To Net: NetName=NetMPL2_8 Pin=MPL3-17
+Added Net: Name=NetMPL2_8
+Added Pin To Net: NetName=NetMPL2_9 Pin=MPL2-9
+Added Pin To Net: NetName=NetMPL2_9 Pin=MPL3-16
+Added Net: Name=NetMPL2_9
+Added Pin To Net: NetName=NetMPL2_10 Pin=MPL2-10
+Added Pin To Net: NetName=NetMPL2_10 Pin=MPL4-19
+Added Net: Name=NetMPL2_10
+Added Pin To Net: NetName=NetMPL2_11 Pin=MPL2-11
+Added Pin To Net: NetName=NetMPL2_11 Pin=MPL4-18
+Added Net: Name=NetMPL2_11
+Added Pin To Net: NetName=NetMPL2_14 Pin=MPL2-14
+Added Pin To Net: NetName=NetMPL2_14 Pin=MPL4-17
+Added Net: Name=NetMPL2_14
+Added Pin To Net: NetName=NetMPL2_15 Pin=MPL2-15
+Added Pin To Net: NetName=NetMPL2_15 Pin=MPL4-16
+Added Net: Name=NetMPL2_15
+Added Pin To Net: NetName=NetMPL3_2 Pin=MPL3-2
+Added Pin To Net: NetName=NetMPL3_2 Pin=MPL3-21
+Added Pin To Net: NetName=NetMPL3_2 Pin=MPL4-21
+Added Pin To Net: NetName=NetMPL3_2 Pin=MPL5-23
+Added Pin To Net: NetName=NetMPL3_2 Pin=MPL6-23
+Added Pin To Net: NetName=NetMPL3_2 Pin=X2-12
+Added Net: Name=NetMPL3_2
+Added Pin To Net: NetName=NetMPL3_8 Pin=MPL3-8
+Added Pin To Net: NetName=NetMPL3_8 Pin=X3-3
+Added Net: Name=NetMPL3_8
+Added Pin To Net: NetName=NetMPL3_9 Pin=MPL3-9
+Added Pin To Net: NetName=NetMPL3_9 Pin=X3-4
+Added Net: Name=NetMPL3_9
+Added Pin To Net: NetName=NetMPL3_10 Pin=MPL3-10
+Added Pin To Net: NetName=NetMPL3_10 Pin=MPL5-19
+Added Net: Name=NetMPL3_10
+Added Pin To Net: NetName=NetMPL3_11 Pin=MPL3-11
+Added Pin To Net: NetName=NetMPL3_11 Pin=MPL5-18
+Added Net: Name=NetMPL3_11
+Added Pin To Net: NetName=NetMPL3_13 Pin=MPL3-13
+Added Pin To Net: NetName=NetMPL3_13 Pin=MPL4-2
+Added Net: Name=NetMPL3_13
+Added Pin To Net: NetName=NetMPL3_22 Pin=MPL3-22
+Added Pin To Net: NetName=NetMPL3_22 Pin=MPL4-22
+Added Pin To Net: NetName=NetMPL3_22 Pin=X2-11
+Added Net: Name=NetMPL3_22
+Added Pin To Net: NetName=NetMPL4_8 Pin=MPL4-8
+Added Pin To Net: NetName=NetMPL4_8 Pin=MPL5-17
+Added Net: Name=NetMPL4_8
+Added Pin To Net: NetName=NetMPL4_9 Pin=MPL4-9
+Added Pin To Net: NetName=NetMPL4_9 Pin=MPL5-16
+Added Net: Name=NetMPL4_9
+Added Pin To Net: NetName=NetMPL4_10 Pin=MPL4-10
+Added Pin To Net: NetName=NetMPL4_10 Pin=MPL6-19
+Added Net: Name=NetMPL4_10
+Added Pin To Net: NetName=NetMPL4_11 Pin=MPL4-11
+Added Pin To Net: NetName=NetMPL4_11 Pin=MPL6-18
+Added Net: Name=NetMPL4_11
+Added Pin To Net: NetName=NetMPL4_14 Pin=MPL4-14
+Added Pin To Net: NetName=NetMPL4_14 Pin=MPL6-17
+Added Net: Name=NetMPL4_14
+Added Pin To Net: NetName=NetMPL4_15 Pin=MPL4-15
+Added Pin To Net: NetName=NetMPL4_15 Pin=MPL6-16
+Added Net: Name=NetMPL4_15
+Added Pin To Net: NetName=NetMPL5_2 Pin=MPL5-2
+Added Pin To Net: NetName=NetMPL5_2 Pin=MPL5-21
+Added Pin To Net: NetName=NetMPL5_2 Pin=MPL6-21
+Added Pin To Net: NetName=NetMPL5_2 Pin=X2-14
+Added Net: Name=NetMPL5_2
+Added Pin To Net: NetName=NetMPL5_8 Pin=MPL5-8
+Added Pin To Net: NetName=NetMPL5_8 Pin=X3-5
+Added Net: Name=NetMPL5_8
+Added Pin To Net: NetName=NetMPL5_9 Pin=MPL5-9
+Added Pin To Net: NetName=NetMPL5_9 Pin=X3-6
+Added Net: Name=NetMPL5_9
+Added Pin To Net: NetName=NetMPL5_10 Pin=MPL5-10
+Added Pin To Net: NetName=NetMPL5_10 Pin=X3-7
+Added Net: Name=NetMPL5_10
+Added Pin To Net: NetName=NetMPL5_11 Pin=MPL5-11
+Added Pin To Net: NetName=NetMPL5_11 Pin=X3-8
+Added Net: Name=NetMPL5_11
+Added Pin To Net: NetName=NetMPL5_13 Pin=MPL5-13
+Added Pin To Net: NetName=NetMPL5_13 Pin=MPL6-2
+Added Net: Name=NetMPL5_13
+Added Pin To Net: NetName=NetMPL5_22 Pin=MPL5-22
+Added Pin To Net: NetName=NetMPL5_22 Pin=MPL6-22
+Added Pin To Net: NetName=NetMPL5_22 Pin=X2-13
+Added Net: Name=NetMPL5_22
+Added Pin To Net: NetName=NetMPL6_8 Pin=MPL6-8
+Added Pin To Net: NetName=NetMPL6_8 Pin=X3-9
+Added Net: Name=NetMPL6_8
+Added Pin To Net: NetName=NetMPL6_9 Pin=MPL6-9
+Added Pin To Net: NetName=NetMPL6_9 Pin=X3-10
+Added Net: Name=NetMPL6_9
+Added Pin To Net: NetName=NetMPL6_10 Pin=MPL6-10
+Added Pin To Net: NetName=NetMPL6_10 Pin=X3-11
+Added Net: Name=NetMPL6_10
+Added Pin To Net: NetName=NetMPL6_11 Pin=MPL6-11
+Added Pin To Net: NetName=NetMPL6_11 Pin=X3-12
+Added Net: Name=NetMPL6_11
+Added Pin To Net: NetName=NetMPL6_14 Pin=MPL6-14
+Added Pin To Net: NetName=NetMPL6_14 Pin=X3-13
+Added Net: Name=NetMPL6_14
+Added Pin To Net: NetName=NetMPL6_15 Pin=MPL6-15
+Added Pin To Net: NetName=NetMPL6_15 Pin=X3-14
+Added Net: Name=NetMPL6_15
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
